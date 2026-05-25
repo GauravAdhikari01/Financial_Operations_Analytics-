@@ -27,7 +27,6 @@ financial-operations-analytics/
 ├── monthly_revenue.csv               # Aggregated monthly metrics
 │
 ├── financial_analytics.py            # Complete analysis script
-├── EXECUTIVE_SUMMARY_FINANCIAL.txt   # Executive report
 ├── kpi_summary.txt                   # Key metrics summary
 │
 ├── at_risk_customers.csv             # High churn risk list
@@ -336,6 +335,4 @@ This project template can be adapted for:
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License - see below:
